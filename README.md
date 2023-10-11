@@ -1,5 +1,5 @@
 # Datathon
-Proyecto para el 1° Datathon Conmemorativo del Día Internacional de la Mujer en la Estadística y Ciencia de Datos.
+Proyecto para el 1° Datathon Conmemorativo del Día Internacional de la Mujer en la Estadística y Ciencia de Datos, donde se busca crear conciencia sobre las brechas de género y trabajar hacia un futuro más inclusivo e igualitario en estos sectores.
 
 # Referencias (Fuente de los datos)
 1. Brecha en el ingreso entre hombres y mujeres. Derecho al trabajo. Igualdad y no discriminación - datos.gob.mx/busca. (n.d.). https://datos.gob.mx/busca/dataset/brecha-en-el-ingreso-entre-hombres-y-mujeres-derecho-al-trabajo-igualdad-y-no-discriminacion?authuser=0
